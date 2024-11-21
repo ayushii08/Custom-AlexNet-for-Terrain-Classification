@@ -2,17 +2,6 @@ Terrain Classification using Deep Learning
 
 This project implements terrain classification using three different deep learning approaches: ELM (Extreme Learning Machine), SegNet, and AlexNet. The models are trained on two distinct datasets for terrain classification tasks.
 
-Project Structure
-Project/
-├── Codes/
-│   ├── ELM.ipynb        
-│   └── SegNet.ipynb     
-├── DL Model/
-│   ├── Model.ipynb
-├── requirement.txt
-└── README.md
-
-
 Models
 ELM (Extreme Learning Machine)
 
